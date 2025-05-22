@@ -62,7 +62,7 @@ Driven by curiosity and precision, I strive to deliver intelligent, scalable sys
   Solves Futoshiki logic puzzles using backtracking with forward checking and MRV heuristics. A showcase of constraint satisfaction problem-solving in Python.
 
 ### Systems Programming
-- **[C HTTP Server](https://github.com/ramsy1195/c-hhtp-server)**  
+- **[C HTTP Server](https://github.com/ramsy1195/c-http-server)**  
   A lightweight HTTP/1.0 server in C supporting static and dynamic responses. Communicates with a backend over TCP to serve HTML-formatted results.
 
 - **[MDB Lookup Tools](https://github.com/ramsy1195/mdb-http-tools)**  
@@ -72,7 +72,7 @@ Driven by curiosity and precision, I strive to deliver intelligent, scalable sys
 
 Feel free to reach out to me on:
 
-- [Email](mailto:ramsy1195@gmail.com)  
+- ramsy1195@gmail.com
 - Or simply open an issue or discussion here on GitHub!
 
 
